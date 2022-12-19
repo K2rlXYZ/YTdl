@@ -1,3 +1,5 @@
+A youtube ripper with a goofy ahh UI that i made. It's kinda finicky and moody.
+
 Need to download ffmpeg from 
 https://github.com/BtbN/FFmpeg-Builds/releases 
 and put it into ...\YTdlGIT\YTv2\bin\Debug
