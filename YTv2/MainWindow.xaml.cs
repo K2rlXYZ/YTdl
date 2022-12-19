@@ -41,7 +41,7 @@ namespace YTv2
             DataDownloads.Children.Clear();
             if (Properties.Settings.Default.destFolder == "") Properties.Settings.Default.destFolder = AppDomain.CurrentDomain.BaseDirectory;
             var chromeOptions = new ChromeOptions();
-            //chromeOptions.AddArguments("headless");
+            chromeOptions.AddArguments("headless");
             var chromeDriverService = ChromeDriverService.CreateDefaultService();
             chromeDriverService.HideCommandPromptWindow = true;
             driver = new ChromeDriver(chromeDriverService, chromeOptions);
