@@ -144,3 +144,4 @@ C:\Users\Karl\Desktop\YTdlGIT\YTv2\obj\Debug\YTv2.csproj.CoreCompileInputs.cache
 C:\Users\Karl\Desktop\YTdlGIT\YTv2\obj\Debug\YTv2.csproj.CopyComplete
 C:\Users\Karl\Desktop\YTdlGIT\YTv2\obj\Debug\YTv2.exe
 C:\Users\Karl\Desktop\YTdlGIT\YTv2\obj\Debug\YTv2.pdb
+C:\Users\Karl\Desktop\YTdlGIT\YTv2\obj\Debug\YTv2.csprojAssemblyReference.cache
