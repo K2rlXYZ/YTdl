@@ -1,4 +1,4 @@
-A youtube ripper with a goofy ahh UI that i made. It's kinda finicky and moody.
+A youtube ripper with a bad UI that i made. It's kinda finicky and moody.
 
 [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) needs to be downloaded and put into ...\YTdlGIT\YTv2\bin\Debug
 The version i use is 4.3.2 but i couldn't find any build for it. And the latest one seemed to be working.
