@@ -10,7 +10,7 @@ All the code that was written by me is in ...\YTdlGIT\YTv2\MainWindow.xaml.cs
 
 When waiting for search results depending on the amount of results wanted it can take some time so be patient 😅
 
-![image](https://user-images.githubusercontent.com/24756451/208471470-56744571-dfb4-4580-a2a1-1dc0990bbd6d.png)
+![image](https://user-images.githubusercontent.com/24756451/215352892-71132cbd-7dae-49a3-952e-cc0a7f9ef465.png)
 
 You can download the number of videos given from top to bottom
 
