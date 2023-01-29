@@ -14,6 +14,6 @@ When waiting for search results depending on the amount of results wanted it can
 
 You can download the number of videos given from top to bottom
 
-![image](https://user-images.githubusercontent.com/24756451/208471701-ec094e28-92cf-4cda-a686-b41d78886911.png)
+![image](https://user-images.githubusercontent.com/24756451/215352920-be9968b8-dbac-4514-9093-5c2290d67aea.png)
 
 With this button you can change the folder to which the videos or sound files will be downloaded
