@@ -9,11 +9,3 @@ It would be smart to make a shortcut to it for repeat use. If you have windows y
 All the code that was written by me is in ...\YTdlGIT\YTv2\MainWindow.xaml.cs
 
 When waiting for search results depending on the amount of results wanted it can take some time so be patient 😅
-
-![image](https://user-images.githubusercontent.com/24756451/208471470-56744571-dfb4-4580-a2a1-1dc0990bbd6d.png)
-
-You can download the number of videos given from top to bottom
-
-![image](https://user-images.githubusercontent.com/24756451/208471701-ec094e28-92cf-4cda-a686-b41d78886911.png)
-
-With this button you can change the folder to which the videos or sound files will be downloaded
